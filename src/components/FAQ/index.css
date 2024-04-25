@@ -1,0 +1,10 @@
+summary {
+    list-style-type: none;
+    padding-top: 1vw;
+    padding-left: 1vw;
+    position: relative;
+}
+
+details > summary::-webkit-details-marker {
+    display: none;
+}
